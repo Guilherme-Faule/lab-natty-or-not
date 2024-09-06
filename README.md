@@ -8,7 +8,7 @@ Elaborar um plano de negócio de Karaoke com auxilio de inteligencia artificial
 
 ## 🤖 Tecnologias Utilizadas
 
-Usei o ChatGPT e o
+Usei o ChatGPT e o Perplexity
 
 ## 🧐 Processo de Criação
 
